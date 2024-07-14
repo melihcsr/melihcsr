@@ -1,4 +1,4 @@
-<h2 align="left">Hi There 👋<br>I am a 4th year software engineering student. I continue my career in iOS & Flutter development. I have 2 years of experience in mobile application development.</h2>
+<h2 align="left">Hi There 👋<br>I continue my career in iOS & Flutter development. I have 3 years of experience in mobile application development.</h2>
 
 ###
 
